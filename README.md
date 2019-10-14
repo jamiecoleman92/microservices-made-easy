@@ -5,7 +5,15 @@ Cloud-native is an approach to application development and deployment. It's the 
 
 When choosing which technologies to use for cloud-native microservices, the combination of open source and open standards can be very important. The combination enables a low cost (free) of entry and at the same time avoids being locked in to a single vendor implementation.
 
+### MicroProfile
+
 Eclipse MicroProfile is a set of industry specifications for developing and deploying cloud-native Java Microservices. The specifications address the important challenges of cloud-native microservices, such as toleration of service failures, security, service metrics and health, and more. Open Liberty is an open source, lightweight, composable Java server that implements the MicroProfile specifications.
+
+### Open Liberty
+
+Open Liberty is fast to start up with a low memory footprint and live reload for quick iteration. Simple to add and remove features from the latest versions of MicroProfile and Jakarta EE. Zero migration let’s you focus on what's important, not the APIs changing under you.
+
+### Kubernetes
 
 Kubernetes is an Open Source platform for deployment, scaling and managing containers and services. It uses a declarative yaml-based approach to describe deployments, for example, the containers to be deployed, their scaling requirements, the services they provide, and so on.
 
@@ -36,7 +44,7 @@ If you have any questions/problems please feel free to ask me anything. Happy Co
 Learn how to use the MicroProfile Fault Tolerance specification to enable applications to function even when one
 of the microservices is unavailable.
 
-The Guide: <a href="https://openliberty.io/guides/microprofile-fallback.html" target="_blank">MicroProfile Fallback</a>
+The Guide: https://openliberty.io/guides/microprofile-fallback.html
 
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-microprofile-fallback
