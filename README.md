@@ -50,6 +50,8 @@ If you have any questions/problems please feel free to ask me anything. Happy Co
 
  ### Building fault-tolerant microservices with the @Fallback annotation
 
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/fault_tolerance.PNG "Open Liberty Logo")
+
 Learn how to use the MicroProfile Fault Tolerance specification to enable applications to function even when one
 of the microservices is unavailable.
 
@@ -60,14 +62,18 @@ https://github.com/OpenLiberty/guide-microprofile-fallback
 
 ### Checking the health of microservices on Kubernetes
 
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/health.PNG "Open Liberty Logo")
+
 Learn how to check the health of microservices on Kubernetes by setting up readiness probes to inspect MicroProfile Health Check endpoints.
 
-https://openliberty.io/guides/kubernetes-microprofile-health.html
+The Guide: https://openliberty.io/guides/kubernetes-microprofile-health.html
 
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-kubernetes-microprofile-health
 
 ### Documenting RESTful APIs
+
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openapi.PNG "Open Liberty Logo")
 
 Explore how to document and filter RESTful APIs from code or static files by using MicroProfile OpenAPI.
 
@@ -80,6 +86,8 @@ https://github.com/OpenLiberty/guide-microprofile-openapi
 
 ### Providing metrics from a microservice
  
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/metrics.PNG "Open Liberty Logo")
+
 Learn how to provide system and application metrics from a microservice using MicroProfile Metrics.
 
 The Guide: https://openliberty.io/guides/microprofile-metrics.html
