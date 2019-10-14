@@ -7,7 +7,7 @@ When choosing which technologies to use for cloud-native microservices, the comb
 
 ### MicroProfile
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/microprofile_logo.png "MicroProfile Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/microprofile_logo_new.png "MicroProfile Logo")
 
 
 Eclipse MicroProfile is a set of industry specifications for developing and deploying cloud-native Java Microservices. The specifications address the important challenges of cloud-native microservices, such as toleration of service failures, security, service metrics and health, and more. Open Liberty is an open source, lightweight, composable Java server that implements the MicroProfile specifications.
