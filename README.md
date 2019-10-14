@@ -91,11 +91,8 @@ https://github.com/OpenLiberty/guide-microprofile-openapi
 Learn how to provide system and application metrics from a microservice using MicroProfile Metrics.
 
 The Guide: https://openliberty.io/guides/microprofile-metrics.html
-           
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/kubelogo.png "Kube Logo")
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/mp_small_logo.png "MP Logo Logo")
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logomark_400_wht.png "Open Liberty Logo")
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openj9.png "OpenJ9 Logo")
 
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-microprofile-metrics
+
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logomark_400_wht.png "Open Liberty Logo")
