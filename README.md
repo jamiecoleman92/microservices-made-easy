@@ -7,13 +7,22 @@ When choosing which technologies to use for cloud-native microservices, the comb
 
 ### MicroProfile
 
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/microprofile_logo.png "MicroProfile Logo")
+
+
 Eclipse MicroProfile is a set of industry specifications for developing and deploying cloud-native Java Microservices. The specifications address the important challenges of cloud-native microservices, such as toleration of service failures, security, service metrics and health, and more. Open Liberty is an open source, lightweight, composable Java server that implements the MicroProfile specifications.
 
 ### Open Liberty
 
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logo_navy.png "Open Liberty Logo")
+
+
 Open Liberty is fast to start up with a low memory footprint and live reload for quick iteration. Simple to add and remove features from the latest versions of MicroProfile and Jakarta EE. Zero migration let’s you focus on what's important, not the APIs changing under you.
 
 ### Kubernetes
+
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/kubernetes_logo.png "Kubernetes Logo")
+
 
 Kubernetes is an Open Source platform for deployment, scaling and managing containers and services. It uses a declarative yaml-based approach to describe deployments, for example, the containers to be deployed, their scaling requirements, the services they provide, and so on.
 
