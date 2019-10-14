@@ -27,19 +27,16 @@ To use these guides you need the following pre-requisites:
 
 ## Lets start making microservices already!
 
-This workshop is comprised of three guides and one bonus guide for those feeling adventorus. You can take the guides in any order you like but I would suggest doing them in the order bellow:
+This workshop is comprised of three guides and one bonus guide for those feeling adventorus. You can take the guides in any order you like but I would suggest doing them in the order bellow. Once you have finished a guide please go back to this page and select the next one from the list!
 
-If you have any questions/problems please feel free to ask me anything!
-
-
-
+If you have any questions/problems please feel free to ask me anything. Happy Coding!
 
  ### Building fault-tolerant microservices with the @Fallback annotation
 
 Learn how to use the MicroProfile Fault Tolerance specification to enable applications to function even when one
 of the microservices is unavailable.
 
-The Guide: https://openliberty.io/guides/microprofile-fallback.html
+The Guide: <a href="https://openliberty.io/guides/microprofile-fallback.html" target="_blank">MicroProfile Fallback</a>
 
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-microprofile-fallback
