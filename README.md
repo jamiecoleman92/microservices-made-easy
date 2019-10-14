@@ -50,7 +50,7 @@ If you have any questions/problems please feel free to ask me anything. Happy Co
 
  ### Building fault-tolerant microservices with the @Fallback annotation
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/fault_tolerance.PNG "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/fault_tolerance.PNG "Fault Tolerance")
 
 Learn how to use the MicroProfile Fault Tolerance specification to enable applications to function even when one
 of the microservices is unavailable.
@@ -62,7 +62,7 @@ https://github.com/OpenLiberty/guide-microprofile-fallback
 
 ### Checking the health of microservices on Kubernetes
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/health.PNG "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/health.PNG "Health")
 
 Learn how to check the health of microservices on Kubernetes by setting up readiness probes to inspect MicroProfile Health Check endpoints.
 
@@ -73,7 +73,7 @@ https://github.com/OpenLiberty/guide-kubernetes-microprofile-health
 
 ### Documenting RESTful APIs
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openapi.PNG "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openapi.PNG "OpenAPI")
 
 Explore how to document and filter RESTful APIs from code or static files by using MicroProfile OpenAPI.
 
@@ -86,11 +86,16 @@ https://github.com/OpenLiberty/guide-microprofile-openapi
 
 ### Providing metrics from a microservice
  
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/metrics.PNG "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/metrics.PNG "Metrics")
 
 Learn how to provide system and application metrics from a microservice using MicroProfile Metrics.
 
 The Guide: https://openliberty.io/guides/microprofile-metrics.html
            
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/kubelogo.png "Kube Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/mp_small_logo.png "MP Logo Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logomark_400_wht.png "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openj9.png "OpenJ9 Logo")
+
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-microprofile-metrics
