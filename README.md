@@ -30,6 +30,10 @@ This workshop demonstrates how to address cloud-native microservice requirements
 
 If you have feedback on a specific guide, we'd appreciated a github issue or pull request against that guide, and similarly if you have feedback on this workshop document, please raise an issue or submit a pull request.
 
+If you want to learn more about MicroProfile, Open Liberty and Kubernetes after you have finished this workshop, head over to our developer site and try out some more guides
+
+https://openliberty.io/guides/
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/guides.png "Guides Site")
 ## Pre-requisites
 
 To use these guides you need the following pre-requisites:
