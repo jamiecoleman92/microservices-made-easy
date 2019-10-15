@@ -7,21 +7,21 @@ When choosing which technologies to use for cloud-native microservices, the comb
 
 ### MicroProfile
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/microprofile_logo_new.png "MicroProfile Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/microprofile_logo_new.png "MicroProfile Logo")
 
 
 Eclipse MicroProfile is a set of industry specifications for developing and deploying cloud-native Java Microservices. The specifications address the important challenges of cloud-native microservices, such as toleration of service failures, security, service metrics and health, and more. Open Liberty is an open source, lightweight, composable Java server that implements the MicroProfile specifications.
 
 ### Open Liberty
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logo_navy.png "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/OL_logo_navy.png "Open Liberty Logo")
 
 
 Open Liberty is fast to start up with a low memory footprint and live reload for quick iteration. Simple to add and remove features from the latest versions of MicroProfile and Jakarta EE. Zero migration let’s you focus on what's important, not the APIs changing under you.
 
 ### Kubernetes
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/kubernetes_logo.png "Kubernetes Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/kubernetes_logo.png "Kubernetes Logo")
 
 
 Kubernetes is an Open Source platform for deployment, scaling and managing containers and services. It uses a declarative yaml-based approach to describe deployments, for example, the containers to be deployed, their scaling requirements, the services they provide, and so on.
@@ -30,10 +30,12 @@ This workshop demonstrates how to address cloud-native microservice requirements
 
 If you have feedback on a specific guide, we'd appreciated a github issue or pull request against that guide, and similarly if you have feedback on this workshop document, please raise an issue or submit a pull request.
 
-If you want to learn more about MicroProfile, Open Liberty and Kubernetes after you have finished this workshop, head over to our developer site and try out some more guides
+If you want to learn more about MicroProfile, Open Liberty and Kubernetes after you have finished this workshop, head over to our developer site and try out some more guides via the link below:
 
-https://openliberty.io/guides/
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/guides.png "Guides Site")
+ ## https://openliberty.io/guides/
+
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/guides.png "Guides Site")
+
 ## Pre-requisites
 
 To use these guides you need the following pre-requisites:
@@ -52,12 +54,12 @@ This workshop is comprised of three guides and one bonus guide for those feeling
 
 If you have any questions/problems please feel free to ask me anything. Happy Coding!
 
- ### Building fault-tolerant microservices with the @Fallback annotation
+ ### Building fault-tolerant microservices with the @Fallback annotation and MicroProfile Config
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/fault_tolerance.PNG "Fault Tolerance")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/fault_tolerance.PNG "Fault Tolerance")
 
 Learn how to use the MicroProfile Fault Tolerance specification to enable applications to function even when one
-of the microservices is unavailable.
+of the microservices is unavailable. This will also cover using external config with microservices.
 
 The Guide: https://openliberty.io/guides/microprofile-fallback.html
 
@@ -66,7 +68,7 @@ https://github.com/OpenLiberty/guide-microprofile-fallback
 
 ### Checking the health of microservices on Kubernetes
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/health.PNG "Health")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/health.PNG "Health")
 
 Learn how to check the health of microservices on Kubernetes by setting up readiness probes to inspect MicroProfile Health Check endpoints.
 
@@ -77,7 +79,7 @@ https://github.com/OpenLiberty/guide-kubernetes-microprofile-health
 
 ### Documenting RESTful APIs
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/openapi.PNG "OpenAPI")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/openapi.PNG "OpenAPI")
 
 Explore how to document and filter RESTful APIs from code or static files by using MicroProfile OpenAPI.
 
@@ -90,7 +92,7 @@ https://github.com/OpenLiberty/guide-microprofile-openapi
 
 ### Providing metrics from a microservice
  
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/metrics.PNG "Metrics")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/metrics.PNG "Metrics")
 
 Learn how to provide system and application metrics from a microservice using MicroProfile Metrics.
 
@@ -99,4 +101,4 @@ The Guide: https://openliberty.io/guides/microprofile-metrics.html
 If you have feedback or find problems, please raise an issue here:
 https://github.com/OpenLiberty/guide-microprofile-metrics
 
-![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/OL_logomark_400_wht.png "Open Liberty Logo")
+![alt text](https://github.com/jamiecoleman92/microservices-made-easy/raw/master/images/OL_logomark_400_wht.png "Open Liberty Logo")
