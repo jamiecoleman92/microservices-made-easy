@@ -45,7 +45,7 @@ To use these guides you need the following pre-requisites:
 4. An editor with Java support (e.g. Eclipse, VS Code, IntelliJ)
 5. Docker & Kubernetes:
    1. Windows: https://docs.docker.com/docker-for-windows/#kubernetes 
-   2. Mac: https://docs.docker.com/docker-for-windows/#kubernetes
+   2. Mac: https://docs.docker.com/docker-for-mac/install/
    3. Linux: https://github.com/kubernetes/minikube#installation)
 
 ## Lets start making microservices already!
