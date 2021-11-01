@@ -39,7 +39,7 @@ If you want to learn more about MicroProfile, Open Liberty and Kubernetes after 
 ## Pre-requisites
 
 To use these guides you need the following pre-requisites:
-1. A Java 8 JDK (e.g. https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=openj9)
+1. A Java 8+ JDK (e.g. https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=openj9)
 2. Apache Maven 3.5.4 or later (https://maven.apache.org/). Older versions may not work.
 3. A git client
 4. An editor with Java support (e.g. Eclipse, VS Code, IntelliJ)
